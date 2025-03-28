@@ -9,3 +9,6 @@ Atividade feita no intuito de praticar a criação e edição de repositório. A
 Após \"commitar\", fazer alterações desejadas e \"commitar\" novamente
 
 ![image](https://github.com/user-attachments/assets/f1298ebf-881b-451f-bfca-9864388e257f)
+
+.
+.
